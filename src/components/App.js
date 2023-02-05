@@ -18,7 +18,7 @@ const App = () => {
       <br />
       <PortalButton buttonclick={changeText} />
       <br />
-      <PortalTextArea value={val} />
+      <PortalTextArea valu1={val} />
     </div>
   );
 };
